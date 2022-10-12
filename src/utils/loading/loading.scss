@@ -1,0 +1,41 @@
+
+
+:root {
+  --accent: hsl(0, 0%, 0%);
+  --size: 60px;
+  --duration: 1s;
+}
+
+.loading {
+  width: 100vh;
+  height: 100vh;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.spinner {
+  width: var(--size);
+  aspect-ratio: 1;
+  display: grid;
+  mask: conic-gradient(from 22deg, #0001, #000);
+  animation: spin var(--duration) steps(12) infinite;
+
+  &,
+  &:before {
+    --gradient: linear-gradient(var(--accent) 0 0);
+    background: var(--gradient) 50%/34% 8% space no-repeat,
+      var(--gradient) 50%/8% 34% no-repeat space;
+  }
+
+  &:before {
+    content: "";
+    transform: rotate(45deg);
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(1turn);
+  }
+}

@@ -1,0 +1,9 @@
+.card-image{
+    &:hover {
+        .zoom-image{
+            opacity: 1;
+            cursor: pointer;
+            transition: 0.5s ease;
+        }
+    }
+}

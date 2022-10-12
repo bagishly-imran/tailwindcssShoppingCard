@@ -1,0 +1,283 @@
+{
+  "category_list": [
+    {
+      "id": 1,
+      "category_name": "Kadın"
+    },
+    {
+      "id": 2,
+      "category_name": "Erkek"
+    },
+    {
+      "id": 3,
+      "category_name": "Çocuk"
+    },
+    {
+      "id": 4,
+      "category_name": "Ayakkabi & Çanta"
+    },
+    {
+      "id": 5,
+      "category_name": "Saat & Aksesuar"
+    },
+    {
+      "id": 6,
+      "category_name": "Kozmetik Ev & Yaşam"
+    },
+    {
+      "id": 7,
+      "category_name": "Spor & Outdoor"
+    },
+    {
+      "id": 8,
+      "category_name": "Kitap & Hobi"
+    },
+    {
+      "id": 9,
+      "category_name": "Oto & Bahçe"
+    },
+    {
+      "id": 10,
+      "category_name": "Elektronik"
+    },
+    {
+      "id": 11,
+      "category_name": "Süpermarket"
+    },
+    {
+      "id": 12,
+      "category_name": "Süper Fırsatlar"
+    },
+    {
+      "id": 14,
+      "category_name": "Kampanyalar"
+    },
+    {
+      "id": 15,
+      "category_name": "Indirimler"
+    },
+    {
+      "id": 16,
+      "category_name": "Blog"
+    },
+    {
+      "id": 17,
+      "category_name": "Markalar"
+    }
+  ],
+  "main_category_list": [
+    {
+      "id": 1,
+      "category_name": "Moda",
+      "icon_name": "Moda"
+    },
+    {
+      "id": 2,
+      "category_name": "Kozmetik",
+      "icon_name": "Cosmetic"
+    },
+    {
+      "id": 3,
+      "category_name": "Spor ve Outdoor",
+      "icon_name": "Boot"
+    },
+    {
+      "id": 4,
+      "category_name": "Kişisel bakım",
+      "icon_name": "Cream"
+    },
+    {
+      "id": 5,
+      "category_name": "Mutfak",
+      "icon_name": "Toster"
+    },
+    {
+      "id": 6,
+      "category_name": "Oyuncak",
+      "icon_name": "Toys"
+    },
+    {
+      "id": 7,
+      "category_name": "Kitap",
+      "icon_name": "Book"
+    },
+    {
+      "id": 8,
+      "category_name": "Ev ve Yaşam",
+      "icon_name": "Home"
+    },
+    {
+      "id": 9,
+      "category_name": "Elektronik",
+      "icon_name": "Electronic"
+    },
+    {
+      "id": 10,
+      "category_name": "Araç",
+      "icon_name": "Car"
+    }
+  ],
+  "tshirts": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 78,
+      "discount_price": 51,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 99,
+      "discount_price": 67,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 150,
+      "discount_price": 77,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 96,
+      "discount_price": 45,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 55,
+      "discount_price": 20,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 78,
+      "discount_price": 51,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 99,
+      "discount_price": 67,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 150,
+      "discount_price": 77,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 96,
+      "discount_price": 45,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 10,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 55,
+      "discount_price": 20,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 11,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 55,
+      "discount_price": 20,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 12,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 78,
+      "discount_price": 51,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 14,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 99,
+      "discount_price": 67,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 15,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 150,
+      "discount_price": 77,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 16,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 96,
+      "discount_price": 45,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    },
+    {
+      "id": 17,
+      "title": "Lorem ipsum dolor",
+      "sub_title": "TESLİMAT SUNY.P1FX Turkuaz Kız Çocuk Deniz",
+      "price": 55,
+      "discount_price": 20,
+      "color_one": "ff0000",
+      "color_two": "ff0000",
+      "image": "https://images.unsplash.com/photo-1634269708726-a17ab6c6cf7b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80"
+    }
+  ]
+
+}

@@ -1,0 +1,42 @@
+$selfTransition: 0.3s ease;   
+$selfColor: #ff0000;
+
+.open-main-categories {
+    height: auto !important;
+}
+
+.main-categories{
+    width: 300px;
+    height: 0px;
+    overflow: hidden;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transition: $selfTransition;
+    animation: 1s openModal linear;
+    z-index: 9999;
+    *{
+        transition: $selfTransition;
+    }
+    .main-categories-btn{
+        .main-categories-btn-svg {
+            transition: $selfTransition;
+        }
+        &:hover{
+            background-color: #FAF3F3;
+            .main-categories-btn-text {
+                color: $selfColor;
+            }
+            .main-categories-btn-img {
+                path {
+                    fill: $selfColor !important;
+                    stroke: $selfColor !important;
+                    color: $selfColor !important;
+                }
+                filter: invert(22%) sepia(59%) saturate(6409%) hue-rotate(353deg) brightness(107%) contrast(132%);
+            }
+            .main-categories-btn-svg {
+                stroke: $selfColor !important;
+            }
+        }
+    }
+}
